@@ -1,0 +1,630 @@
+A) Total number of connections: 48
+--------------------------------------------------------------------------------
+B) Connection's details
+Connection 1:
+	Source Address: 192.168.1.164
+	Destination Address: 142.104.5.64
+	Source Port: 1200
+	Destination Port: 80
+	Status: S2F1/R
+	Start Time: 0.00281 seconds
+	End Time: 43.61295 seconds
+	Duration: 43.61 seconds
+	Number of packets sent from Source to Destination: 54
+	Number of packets sent from Destination to Source: 77
+	Total number of packets: 131
+	Number of data bytes sent from Source to Destination: 3063
+	Number of data bytes sent from Destination to Source: 100545
+	Total number of data bytes: 103608
+--------------------------------------------------------------------------------
+Connection 2:
+	Source Address: 192.168.1.164
+	Destination Address: 142.104.5.64
+	Source Port: 1201
+	Destination Port: 80
+	Status: S2F2
+	Start Time: 2.66955 seconds
+	End Time: 26.78894 seconds
+	Duration: 24.12 seconds
+	Number of packets sent from Source to Destination: 28
+	Number of packets sent from Destination to Source: 41
+	Total number of packets: 69
+	Number of data bytes sent from Source to Destination: 1334
+	Number of data bytes sent from Destination to Source: 52974
+	Total number of data bytes: 54308
+--------------------------------------------------------------------------------
+Connection 3:
+	Source Address: 192.168.1.164
+	Destination Address: 142.104.105.208
+	Source Port: 1202
+	Destination Port: 80
+	Status: S2F2/R
+	Start Time: 26.85491 seconds
+	End Time: 27.15524 seconds
+	Duration: 0.3 seconds
+	Number of packets sent from Source to Destination: 10
+	Number of packets sent from Destination to Source: 19
+	Total number of packets: 29
+	Number of data bytes sent from Source to Destination: 795
+	Number of data bytes sent from Destination to Source: 17749
+	Total number of data bytes: 18544
+--------------------------------------------------------------------------------
+Connection 4:
+	Source Address: 192.168.1.164
+	Destination Address: 142.104.105.208
+	Source Port: 1203
+	Destination Port: 80
+	Status: S2F2/R
+	Start Time: 27.16172 seconds
+	End Time: 27.17573 seconds
+	Duration: 0.01 seconds
+	Number of packets sent from Source to Destination: 5
+	Number of packets sent from Destination to Source: 5
+	Total number of packets: 10
+	Number of data bytes sent from Source to Destination: 359
+	Number of data bytes sent from Destination to Source: 1134
+	Total number of data bytes: 1493
+--------------------------------------------------------------------------------
+Connection 5:
+	Source Address: 192.168.1.164
+	Destination Address: 142.104.105.208
+	Source Port: 1204
+	Destination Port: 80
+	Status: S2F2/R
+	Start Time: 27.17467 seconds
+	End Time: 27.18898 seconds
+	Duration: 0.01 seconds
+	Number of packets sent from Source to Destination: 5
+	Number of packets sent from Destination to Source: 6
+	Total number of packets: 11
+	Number of data bytes sent from Source to Destination: 367
+	Number of data bytes sent from Destination to Source: 2295
+	Total number of data bytes: 2662
+--------------------------------------------------------------------------------
+Connection 6:
+	Source Address: 192.168.1.164
+	Destination Address: 142.104.105.208
+	Source Port: 1205
+	Destination Port: 80
+	Status: S2F1/R
+	Start Time: 27.21015 seconds
+	End Time: 27.22044 seconds
+	Duration: 0.01 seconds
+	Number of packets sent from Source to Destination: 5
+	Number of packets sent from Destination to Source: 6
+	Total number of packets: 11
+	Number of data bytes sent from Source to Destination: 366
+	Number of data bytes sent from Destination to Source: 4655
+	Total number of data bytes: 5021
+--------------------------------------------------------------------------------
+Connection 7:
+	Source Address: 192.168.1.164
+	Destination Address: 142.104.105.208
+	Source Port: 1206
+	Destination Port: 80
+	Status: S2F2/R
+	Start Time: 27.2304 seconds
+	End Time: 27.25091 seconds
+	Duration: 0.02 seconds
+	Number of packets sent from Source to Destination: 5
+	Number of packets sent from Destination to Source: 6
+	Total number of packets: 11
+	Number of data bytes sent from Source to Destination: 365
+	Number of data bytes sent from Destination to Source: 1826
+	Total number of data bytes: 2191
+--------------------------------------------------------------------------------
+Connection 8:
+	Source Address: 192.168.1.164
+	Destination Address: 142.104.105.208
+	Source Port: 1207
+	Destination Port: 80
+	Status: S2F0/R
+Connection 9:
+	Source Address: 192.168.1.164
+	Destination Address: 142.104.105.208
+	Source Port: 1208
+	Destination Port: 80
+	Status: S2F1/R
+	Start Time: 27.27998 seconds
+	End Time: 27.29829 seconds
+	Duration: 0.02 seconds
+	Number of packets sent from Source to Destination: 5
+	Number of packets sent from Destination to Source: 6
+	Total number of packets: 11
+	Number of data bytes sent from Source to Destination: 375
+	Number of data bytes sent from Destination to Source: 4656
+	Total number of data bytes: 5031
+--------------------------------------------------------------------------------
+Connection 10:
+	Source Address: 192.168.1.164
+	Destination Address: 142.104.105.208
+	Source Port: 1209
+	Destination Port: 80
+	Status: S2F0/R
+Connection 11:
+	Source Address: 192.168.1.164
+	Destination Address: 142.104.105.208
+	Source Port: 1210
+	Destination Port: 80
+	Status: S2F0/R
+Connection 12:
+	Source Address: 192.168.1.164
+	Destination Address: 142.104.105.208
+	Source Port: 1211
+	Destination Port: 80
+	Status: S2F2/R
+	Start Time: 39.27915 seconds
+	End Time: 39.78867 seconds
+	Duration: 0.51 seconds
+	Number of packets sent from Source to Destination: 14
+	Number of packets sent from Destination to Source: 21
+	Total number of packets: 35
+	Number of data bytes sent from Source to Destination: 846
+	Number of data bytes sent from Destination to Source: 21542
+	Total number of data bytes: 22388
+--------------------------------------------------------------------------------
+Connection 13:
+	Source Address: 192.168.1.164
+	Destination Address: 142.104.105.208
+	Source Port: 1212
+	Destination Port: 80
+	Status: S2F2/R
+	Start Time: 39.64428 seconds
+	End Time: 39.78918 seconds
+	Duration: 0.14 seconds
+	Number of packets sent from Source to Destination: 5
+	Number of packets sent from Destination to Source: 5
+	Total number of packets: 10
+	Number of data bytes sent from Source to Destination: 411
+	Number of data bytes sent from Destination to Source: 1130
+	Total number of data bytes: 1541
+--------------------------------------------------------------------------------
+Connection 14:
+	Source Address: 192.168.1.164
+	Destination Address: 142.104.105.208
+	Source Port: 1213
+	Destination Port: 80
+	Status: S2F2/R
+	Start Time: 39.70602 seconds
+	End Time: 39.88228 seconds
+	Duration: 0.18 seconds
+	Number of packets sent from Source to Destination: 5
+	Number of packets sent from Destination to Source: 6
+	Total number of packets: 11
+	Number of data bytes sent from Source to Destination: 421
+	Number of data bytes sent from Destination to Source: 2295
+	Total number of data bytes: 2716
+--------------------------------------------------------------------------------
+Connection 15:
+	Source Address: 192.168.1.164
+	Destination Address: 142.104.105.208
+	Source Port: 1214
+	Destination Port: 80
+	Status: S2F1/R
+	Start Time: 39.73077 seconds
+	End Time: 39.84902 seconds
+	Duration: 0.12 seconds
+	Number of packets sent from Source to Destination: 5
+	Number of packets sent from Destination to Source: 6
+	Total number of packets: 11
+	Number of data bytes sent from Source to Destination: 420
+	Number of data bytes sent from Destination to Source: 4655
+	Total number of data bytes: 5075
+--------------------------------------------------------------------------------
+Connection 16:
+	Source Address: 192.168.1.164
+	Destination Address: 142.104.105.208
+	Source Port: 1215
+	Destination Port: 80
+	Status: S2F2/R
+	Start Time: 39.84883 seconds
+	End Time: 39.99601 seconds
+	Duration: 0.15 seconds
+	Number of packets sent from Source to Destination: 5
+	Number of packets sent from Destination to Source: 6
+	Total number of packets: 11
+	Number of data bytes sent from Source to Destination: 419
+	Number of data bytes sent from Destination to Source: 1826
+	Total number of data bytes: 2245
+--------------------------------------------------------------------------------
+Connection 17:
+	Source Address: 192.168.1.164
+	Destination Address: 142.104.105.208
+	Source Port: 1216
+	Destination Port: 80
+	Status: S2F0/R
+Connection 18:
+	Source Address: 192.168.1.164
+	Destination Address: 142.104.100.111
+	Source Port: 1217
+	Destination Port: 80
+	Status: S2F2/R
+	Start Time: 131.95107 seconds
+	End Time: 132.02928 seconds
+	Duration: 0.08 seconds
+	Number of packets sent from Source to Destination: 6
+	Number of packets sent from Destination to Source: 8
+	Total number of packets: 14
+	Number of data bytes sent from Source to Destination: 654
+	Number of data bytes sent from Destination to Source: 4027
+	Total number of data bytes: 4681
+--------------------------------------------------------------------------------
+Connection 19:
+	Source Address: 192.168.1.164
+	Destination Address: 142.104.100.111
+	Source Port: 1218
+	Destination Port: 80
+	Status: S2F2/R
+	Start Time: 132.08285 seconds
+	End Time: 132.16803 seconds
+	Duration: 0.09 seconds
+	Number of packets sent from Source to Destination: 5
+	Number of packets sent from Destination to Source: 6
+	Total number of packets: 11
+	Number of data bytes sent from Source to Destination: 366
+	Number of data bytes sent from Destination to Source: 2969
+	Total number of data bytes: 3335
+--------------------------------------------------------------------------------
+Connection 20:
+	Source Address: 192.168.1.164
+	Destination Address: 142.104.100.111
+	Source Port: 1219
+	Destination Port: 80
+	Status: S2F0/R
+Connection 21:
+	Source Address: 192.168.1.164
+	Destination Address: 142.104.100.111
+	Source Port: 1220
+	Destination Port: 80
+	Status: S2F0/R
+Connection 22:
+	Source Address: 192.168.1.164
+	Destination Address: 142.104.100.111
+	Source Port: 1221
+	Destination Port: 80
+	Status: S2F1/R
+	Start Time: 152.17832 seconds
+	End Time: 156.64977 seconds
+	Duration: 4.47 seconds
+	Number of packets sent from Source to Destination: 18
+	Number of packets sent from Destination to Source: 29
+	Total number of packets: 47
+	Number of data bytes sent from Source to Destination: 532
+	Number of data bytes sent from Destination to Source: 33703
+	Total number of data bytes: 34235
+--------------------------------------------------------------------------------
+Connection 23:
+	Source Address: 192.168.1.164
+	Destination Address: 142.104.100.111
+	Source Port: 1222
+	Destination Port: 80
+	Status: S2F0/R
+Connection 24:
+	Source Address: 192.168.1.164
+	Destination Address: 142.104.100.111
+	Source Port: 1223
+	Destination Port: 80
+	Status: S2F0/R
+Connection 25:
+	Source Address: 192.168.1.164
+	Destination Address: 142.104.100.111
+	Source Port: 1224
+	Destination Port: 80
+	Status: S2F0/R
+Connection 26:
+	Source Address: 192.168.1.164
+	Destination Address: 142.104.100.111
+	Source Port: 1225
+	Destination Port: 80
+	Status: S2F1/R
+	Start Time: 161.61929 seconds
+	End Time: 177.49136 seconds
+	Duration: 15.87 seconds
+	Number of packets sent from Source to Destination: 82
+	Number of packets sent from Destination to Source: 157
+	Total number of packets: 239
+	Number of data bytes sent from Source to Destination: 407
+	Number of data bytes sent from Destination to Source: 222173
+	Total number of data bytes: 222580
+--------------------------------------------------------------------------------
+Connection 27:
+	Source Address: 192.168.1.164
+	Destination Address: 142.104.100.1
+	Source Port: 1226
+	Destination Port: 53
+	Status: S2F2
+	Start Time: 173.51283 seconds
+	End Time: 173.65308 seconds
+	Duration: 0.14 seconds
+	Number of packets sent from Source to Destination: 5
+	Number of packets sent from Destination to Source: 4
+	Total number of packets: 9
+	Number of data bytes sent from Source to Destination: 35
+	Number of data bytes sent from Destination to Source: 733
+	Total number of data bytes: 768
+--------------------------------------------------------------------------------
+Connection 28:
+	Source Address: 192.168.1.164
+	Destination Address: 207.202.158.14
+	Source Port: 1227
+	Destination Port: 80
+	Status: S2F2
+	Start Time: 173.60776 seconds
+	End Time: 173.7418 seconds
+	Duration: 0.13 seconds
+	Number of packets sent from Source to Destination: 5
+	Number of packets sent from Destination to Source: 5
+	Total number of packets: 10
+	Number of data bytes sent from Source to Destination: 433
+	Number of data bytes sent from Destination to Source: 301
+	Total number of data bytes: 734
+--------------------------------------------------------------------------------
+Connection 29:
+	Source Address: 192.168.1.164
+	Destination Address: 207.202.158.14
+	Source Port: 1228
+	Destination Port: 80
+	Status: S3F0/R
+Connection 30:
+	Source Address: 192.168.1.164
+	Destination Address: 207.202.158.16
+	Source Port: 1229
+	Destination Port: 80
+	Status: S2F2
+	Start Time: 174.93876 seconds
+	End Time: 177.74179 seconds
+	Duration: 2.8 seconds
+	Number of packets sent from Source to Destination: 5
+	Number of packets sent from Destination to Source: 5
+	Total number of packets: 10
+	Number of data bytes sent from Source to Destination: 394
+	Number of data bytes sent from Destination to Source: 351
+	Total number of data bytes: 745
+--------------------------------------------------------------------------------
+Connection 31:
+	Source Address: 192.168.1.164
+	Destination Address: 207.202.158.16
+	Source Port: 1230
+	Destination Port: 80
+	Status: S2F2
+	Start Time: 177.74211 seconds
+	End Time: 179.64309 seconds
+	Duration: 1.9 seconds
+	Number of packets sent from Source to Destination: 5
+	Number of packets sent from Destination to Source: 5
+	Total number of packets: 10
+	Number of data bytes sent from Source to Destination: 421
+	Number of data bytes sent from Destination to Source: 351
+	Total number of data bytes: 772
+--------------------------------------------------------------------------------
+Connection 32:
+	Source Address: 192.168.1.164
+	Destination Address: 169.229.60.105
+	Source Port: 1231
+	Destination Port: 80
+	Status: S2F1/R
+	Start Time: 184.90974 seconds
+	End Time: 185.12045 seconds
+	Duration: 0.21 seconds
+	Number of packets sent from Source to Destination: 6
+	Number of packets sent from Destination to Source: 11
+	Total number of packets: 17
+	Number of data bytes sent from Source to Destination: 454
+	Number of data bytes sent from Destination to Source: 9938
+	Total number of data bytes: 10392
+--------------------------------------------------------------------------------
+Connection 33:
+	Source Address: 192.168.1.164
+	Destination Address: 169.229.60.105
+	Source Port: 1232
+	Destination Port: 80
+	Status: S2F0/R
+Connection 34:
+	Source Address: 192.168.1.164
+	Destination Address: 169.229.60.105
+	Source Port: 1233
+	Destination Port: 80
+	Status: S2F1/R
+	Start Time: 185.37959 seconds
+	End Time: 197.62249 seconds
+	Duration: 12.24 seconds
+	Number of packets sent from Source to Destination: 22
+	Number of packets sent from Destination to Source: 35
+	Total number of packets: 57
+	Number of data bytes sent from Source to Destination: 310
+	Number of data bytes sent from Destination to Source: 34216
+	Total number of data bytes: 34526
+--------------------------------------------------------------------------------
+Connection 35:
+	Source Address: 192.168.1.164
+	Destination Address: 142.104.100.111
+	Source Port: 1234
+	Destination Port: 80
+	Status: S2F1/R
+	Start Time: 194.31839 seconds
+	End Time: 217.56228 seconds
+	Duration: 23.24 seconds
+	Number of packets sent from Source to Destination: 15
+	Number of packets sent from Destination to Source: 15
+	Total number of packets: 30
+	Number of data bytes sent from Source to Destination: 2218
+	Number of data bytes sent from Destination to Source: 7437
+	Total number of data bytes: 9655
+--------------------------------------------------------------------------------
+Connection 36:
+	Source Address: 192.168.1.164
+	Destination Address: 142.104.100.111
+	Source Port: 1235
+	Destination Port: 80
+	Status: S2F1/R
+	Start Time: 194.39202 seconds
+	End Time: 217.59222 seconds
+	Duration: 23.2 seconds
+	Number of packets sent from Source to Destination: 60
+	Number of packets sent from Destination to Source: 104
+	Total number of packets: 164
+	Number of data bytes sent from Source to Destination: 1832
+	Number of data bytes sent from Destination to Source: 137084
+	Total number of data bytes: 138916
+--------------------------------------------------------------------------------
+Connection 37:
+	Source Address: 192.168.1.164
+	Destination Address: 209.198.98.149
+	Source Port: 1236
+	Destination Port: 80
+	Status: S2F0/R
+Connection 38:
+	Source Address: 192.168.1.164
+	Destination Address: 209.198.98.149
+	Source Port: 1237
+	Destination Port: 80
+	Status: S2F1/R
+	Start Time: 207.19142 seconds
+	End Time: 226.84378 seconds
+	Duration: 19.65 seconds
+	Number of packets sent from Source to Destination: 30
+	Number of packets sent from Destination to Source: 51
+	Total number of packets: 81
+	Number of data bytes sent from Source to Destination: 3475
+	Number of data bytes sent from Destination to Source: 32424
+	Total number of data bytes: 35899
+--------------------------------------------------------------------------------
+Connection 39:
+	Source Address: 192.168.1.164
+	Destination Address: 209.198.98.149
+	Source Port: 1238
+	Destination Port: 80
+	Status: S2F0
+Connection 40:
+	Source Address: 192.168.1.164
+	Destination Address: 66.102.7.147
+	Source Port: 1239
+	Destination Port: 80
+	Status: S2F0/R
+Connection 41:
+	Source Address: 192.168.1.164
+	Destination Address: 209.198.98.149
+	Source Port: 1240
+	Destination Port: 80
+	Status: S2F0
+Connection 42:
+	Source Address: 192.168.1.164
+	Destination Address: 216.239.59.104
+	Source Port: 1241
+	Destination Port: 80
+	Status: S2F1
+	Start Time: 249.85799 seconds
+	End Time: 250.53533 seconds
+	Duration: 0.68 seconds
+	Number of packets sent from Source to Destination: 4
+	Number of packets sent from Destination to Source: 4
+	Total number of packets: 8
+	Number of data bytes sent from Source to Destination: 464
+	Number of data bytes sent from Destination to Source: 468
+	Total number of data bytes: 932
+--------------------------------------------------------------------------------
+Connection 43:
+	Source Address: 192.168.1.164
+	Destination Address: 66.102.7.147
+	Source Port: 1242
+	Destination Port: 80
+	Status: S2F1
+	Start Time: 250.53571 seconds
+	End Time: 261.71932 seconds
+	Duration: 11.18 seconds
+	Number of packets sent from Source to Destination: 10
+	Number of packets sent from Destination to Source: 13
+	Total number of packets: 23
+	Number of data bytes sent from Source to Destination: 998
+	Number of data bytes sent from Destination to Source: 6783
+	Total number of data bytes: 7781
+--------------------------------------------------------------------------------
+Connection 44:
+	Source Address: 192.168.1.164
+	Destination Address: 66.102.7.147
+	Source Port: 1243
+	Destination Port: 80
+	Status: S2F0
+Connection 45:
+	Source Address: 192.168.1.164
+	Destination Address: 128.119.85.98
+	Source Port: 1244
+	Destination Port: 80
+	Status: S2F2
+	Start Time: 263.83818 seconds
+	End Time: 264.54181 seconds
+	Duration: 0.7 seconds
+	Number of packets sent from Source to Destination: 6
+	Number of packets sent from Destination to Source: 8
+	Total number of packets: 14
+	Number of data bytes sent from Source to Destination: 456
+	Number of data bytes sent from Destination to Source: 4383
+	Total number of data bytes: 4839
+--------------------------------------------------------------------------------
+Connection 46:
+	Source Address: 192.168.1.164
+	Destination Address: 128.119.85.98
+	Source Port: 1245
+	Destination Port: 80
+	Status: S2F2
+	Start Time: 264.44808 seconds
+	End Time: 265.07658 seconds
+	Duration: 0.63 seconds
+	Number of packets sent from Source to Destination: 8
+	Number of packets sent from Destination to Source: 12
+	Total number of packets: 20
+	Number of data bytes sent from Source to Destination: 297
+	Number of data bytes sent from Destination to Source: 11099
+	Total number of data bytes: 11396
+--------------------------------------------------------------------------------
+Connection 47:
+	Source Address: 192.168.1.164
+	Destination Address: 132.170.108.140
+	Source Port: 1246
+	Destination Port: 80
+	Status: S2F1
+	Start Time: 266.57875 seconds
+	End Time: 282.55267 seconds
+	Duration: 15.97 seconds
+	Number of packets sent from Source to Destination: 20
+	Number of packets sent from Destination to Source: 29
+	Total number of packets: 49
+	Number of data bytes sent from Source to Destination: 1150
+	Number of data bytes sent from Destination to Source: 34469
+	Total number of data bytes: 35619
+--------------------------------------------------------------------------------
+Connection 48:
+	Source Address: 192.168.1.164
+	Destination Address: 132.170.108.140
+	Source Port: 1247
+	Destination Port: 80
+	Status: S2F1
+	Start Time: 266.97515 seconds
+	End Time: 282.55234 seconds
+	Duration: 15.58 seconds
+	Number of packets sent from Source to Destination: 9
+	Number of packets sent from Destination to Source: 11
+	Total number of packets: 20
+	Number of data bytes sent from Source to Destination: 285
+	Number of data bytes sent from Destination to Source: 11110
+	Total number of data bytes: 11395
+--------------------------------------------------------------------------------
+C) General
+Total number of complete TCP connections: 32
+Number of reset TCP connections: 34
+Number of TCP connections that were still open when the trace capture ended: 16
+--------------------------------------------------------------------------------
+D) Complete TCP connections
+Minimum time duration: 0.01 seconds
+Mean time duration: 6.81 seconds
+Maximum time duration: 43.61 seconds
+Minimum RTT value: 0.000328 seconds
+Mean RTT value: 0.040854 seconds
+Maximum RTT value: 0.144791 seconds
+Minimum number of packets including both send/received: 8
+Mean number of packets including both send/received: 37.31
+Maximum number of packets including both send/received: 239
+Minimum receive window size including both send/received: 0
+Mean receive window size including both send/received: 15277.69
+Maximum receive window size including both send/received: 64240
+--------------------------------------------------------------------------------
